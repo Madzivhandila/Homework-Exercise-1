@@ -1,7 +1,6 @@
 # Homework-Exercise-1
 
-#Java Factorial Calculator
-
+# Java Factorial Calculator
 This program in Java figures out an integer's factorial if it is not zero. The product of all positive numbers from 1 to 'n' is known as the factorial, and it is symbolized by the symbol 'n!' for non-negative integers.
 
 ## Problem Description
